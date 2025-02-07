@@ -25,11 +25,11 @@ Este é um projeto simples de um **carrinho de compras** desenvolvido em JavaScr
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/carrinho-de-compras.git
+   git clone https://github.com/w7-silva/Carrinho-de-compras.git
    ```
 2. Acesse a pasta do projeto:
    ```sh
-   cd carrinho-de-compras
+   cd Carrinho-de-compras
    ```
 3. Abra o arquivo `index.html` em seu navegador.
 
